@@ -7,6 +7,9 @@ Estão Separados em Pastas.
 - Aula 1 - Entrada e Saída de Dados.
   + Como comentar no código.
   + Inclusão de biblioteca.
+  + Variavel int, char, double, float.
+  + Pular linha \n ou endl;
+  
 - Aula 2 - Estrutura de Decisão " if , if else, else ". 
   + Como se utilizar a estrutura.
   + Noção de contadores.
