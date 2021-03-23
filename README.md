@@ -1,17 +1,39 @@
-:man_student: C++ Básico - Projeto WTIc :woman_student: 
+# 👨‍🎓 C++ 👩‍🎓
 
-O .main contém a descrição por tema dos ensinamentos em aula.
+## Introdução a linguagem C++;
 
-Estão Separados em Pastas.
+## Nível : Iniciante;
 
-- Aula 1 - Entrada e Saída de Dados.
-  + Como comentar no código.
-  + Inclusão de biblioteca.
-  + Variavel int, char, double, float.
-  + Pular linha \n ou endl;
-  
-- Aula 2 - Estrutura de Decisão " if , if else, else ". 
-  + Como se utilizar a estrutura.
-  + Noção de contadores.
+- Estudos;
 
-:coffee::nerd_face::computer: _ Follow @Bruno_Sthill
+- Ideias;
+
+- Experiências;
+
+- Testes.
+
+  - Entrada e Saída de Dados " cin>> & cout<< ".
+
+    + Como comentar no código.
+    + Inclusão de biblioteca.
+    + Variavel int, char, double, float.
+    + Pular linha \n ou endl;
+
+  - Estrutura de Decisão " if & if else & else ". 
+
+    + Como se utilizar a estrutura.
+    + Noção de contadores.
+
+  - Estrutura de Decisão " for & While". 
+
+    + Como se utilizar a estrutura.
+
+      
+
+    + 
+
+      
+
+      
+
+# :coffee::nerd_face::computer: _ Follow @Bruno_Sthill
