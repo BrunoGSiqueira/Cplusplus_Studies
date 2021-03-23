@@ -1,11 +1,18 @@
+<<<<<<< HEAD
 # 👨‍🎓 C++ 👩‍🎓
 
 ## Introdução a linguagem C++;
 
 ## Nível : Iniciante;
+=======
+# :man_student: C++ Básico - Projeto WTIc :woman_student: 
+
+## O .main contém a descrição por tema dos ensinamentos em aula.
+>>>>>>> 68fe7ebcadb15c648ae6703bd60b10f32d8bd621
 
 - Estudos;
 
+<<<<<<< HEAD
 - Ideias;
 
 - Experiências;
@@ -37,3 +44,12 @@
       
 
 # :coffee::nerd_face::computer: _ Follow @Bruno_Sthill
+=======
+- Aula 3 - Estrutura de Decisão " For ". 
+  + Como se utilizar a estrutura.
+
+- Aula 2 - Estrutura de Decisão " While ". 
+  + Como se utilizar a estrutura.
+  
+:coffee::nerd_face::computer: _ Follow @Bruno_Sthill
+>>>>>>> 68fe7ebcadb15c648ae6703bd60b10f32d8bd621
