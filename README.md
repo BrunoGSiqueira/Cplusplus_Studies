@@ -2,8 +2,6 @@
 
 ## O .main contém a descrição por tema dos ensinamentos em aula.
 
-Estão Separados em Pastas.
-
 - Aula 1 - Entrada e Saída de Dados.
   + Como comentar no código.
   + Inclusão de biblioteca.
